@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Welcome to Codaholic Codes!
 
-<!--
-**CodaholicCodes/CodaholicCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Kundan Singh**, a passionate B.Tech CSE student and developer turning `Hello World` into real-world solutions.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Full Stack Projects (MERN)
+- Java-based Backends
+- DSA challenges (solved 100+ problems on LeetCode/GFG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals:
+- Ace Flipkart GRiD 7.0 💡
+- Contribute to Open Source
+- Build scalable, production-level apps
+
+📫 Connect with me:
+- LinkedIn: [kundan-singh](https://www.linkedin.com/in/kundan-singh-27b93327a)
+- Email:kundansingh68788@gmail.com
+
+
+💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+🚀 Let’s Code & Collaborate 
